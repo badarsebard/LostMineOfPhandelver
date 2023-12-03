@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="lmop"
+                 name="Lost Mine of Phandelver"
+                 start-page="lost-mine-of-phandelver.md">
+
+    <toc-element topic="lost-mine-of-phandelver.md"/>
+</instance-profile>
