@@ -1,3 +1,0 @@
-# Lost Mine of Phandelver
-
-Lost Mine of Phandelver is an adventure for four to five characters of 1st level. During the course of the adventure, the characters will advance to 5th level. The adventure is set a short distance from the city of Neverwinter in the Sword Coast region of the Forgotten Realms setting. The Sword Coast is part of the North — a vast realm of free settlements surrounded by wilderness and adventure.
