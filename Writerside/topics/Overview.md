@@ -11,3 +11,19 @@ Centuries have passed and the prosperous town that laid nearby has been revived 
 Adventure is played out in four parts. Part 1 is the shortest and simply gets the characters to the town of Phandalin. The party starts from Neverwinter and is ambushed by Goblins along the way. This is where they will meet their first NPC, Sildar Hallwinter who will provide them with much of the background information they will need.
 
 Part 2 starts in the town of Phandalin. The town is being controlled by a gang called the Redbrands for the last two months, led by Glasstaff. There are several quests available from various townsfolk, some of which will need to be done in order to find the location of Cragmaw Castle. There are also several factions present in the town, some of which can be joined. 
+
+Part 3 is where the bulk of the quests from part 2 are played out and takes place mostly outside the town. It culminates in finding Cragmaw Castle and rescuing Gundren Rockseeker. 
+
+## Notes to Self
+- 1 inch sticker template is Avery 6450
+- 2 inch sticker template is Avery 22817
+
+## Quests
+- Old Owl Trouble (part 3)
+- Halia's Job Offer (part 2)
+- Redoith the Druid (part 3)
+- Banshee's Bargain (part 3)
+- Orc Trouble (part 3)
+- Finding Cragmaw Castle (part 3)
+- Finding Iarno (part 2)
+- Mirna's Heirloom (part 3)

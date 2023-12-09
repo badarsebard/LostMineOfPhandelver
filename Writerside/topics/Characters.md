@@ -1,3 +1,5 @@
 # Notable Characters
 
-Start typing here...
+## NPCs
+
+## Player Characters

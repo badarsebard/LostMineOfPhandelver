@@ -1,3 +1,3 @@
-# Players
+# Player Characters
 
 Start typing here...

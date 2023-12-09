@@ -1,3 +1,3 @@
 # Locations
 
-Start typing here...
+[Phandalin](Phandalin.md)
