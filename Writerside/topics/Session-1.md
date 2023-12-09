@@ -26,6 +26,7 @@ There isn't much information that can be gleaned at this point.
 > You’ve spent the last few days following the High Road south from Neverwinter, and you’ve just recently veered east along the Triboar Trail. You’ve encountered no trouble so far, but this territory can be dangerous. Bandits and outlaws have been known to lurk along the trail. After about a half a day, you come around a bend, you spot two dead horses sprawled about fifty feet ahead of you, blocking the path. Each has several black-feathered arrows sticking out of it. The woods press close to the trail here, with a steep embankment and dense thickets on either side.
 
 Four goblins lay in ambush.
+
 ![](goblin-stats.png)
 
 ### Goblin Trail
