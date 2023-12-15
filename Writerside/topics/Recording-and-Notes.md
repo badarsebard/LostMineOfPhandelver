@@ -1,3 +1,0 @@
-# Recording and Notes
-
-Start typing here...

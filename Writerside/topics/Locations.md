@@ -1,3 +1,3 @@
 # Locations
 
-[Phandalin](Phandalin.md)
+[Town of Phandalin](town-of-phandalin.md)

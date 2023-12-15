@@ -10,4 +10,8 @@
         <description>Created after removal of "Session 2" from Lost Mine of Phandelver</description>
         <accepts>Session-2.html</accepts>
     </rule>
+    <rule id="2c11bf1">
+        <description>Created after removal of "Recording and Notes" from Lost Mine of Phandelver</description>
+        <accepts>Recording-and-Notes.html</accepts>
+    </rule>
 </rules>
